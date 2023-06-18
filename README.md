@@ -8,6 +8,13 @@ To start using them right away you should place the aliases you like most in a f
 . ~/.zsh/git # git aliases
 ```
 
+Or you can use `~/.gitconfig` file 
+
+```bash
+...
+[alias]
+```
+
 
 # Git aliases: beginner
 
